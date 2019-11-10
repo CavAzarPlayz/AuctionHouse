@@ -1,9 +1,0 @@
-name: AuctionHouseUpgraded
-main: sLeeD\AuctionHouseUpgraded\Main
-api: [3.0.5]
-version: 1.0
-author: sLeeD
-
-commands:
- ah:
-  description: "Membuka auction house"
